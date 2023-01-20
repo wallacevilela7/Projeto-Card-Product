@@ -94,5 +94,4 @@ p {
     transition:all ease 0.3s;
     background-color: var(--text-color);
     color:#d9cdf7;
-    border:1px solid var(--bg-color);
 }
